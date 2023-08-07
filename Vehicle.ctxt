@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\r\n\ Prince\ Adhikari,\ C12\r\n\ COllege\ ID\:\ NP01CP4S220007\r\n
+comment1.params=vehicleID\ vehicleName\ vehicleWeight\ vehicleColor
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=Vehicle\ id,\ Vehicle\ name,\ Vehicle\ color\ and\ Vehicle\ weight\ \r\n\ \ \ \ \ \ are\ passed\ as\ constructor\ parameters\ and\ are\ initialized\r\nby\ assigning\ the\ parameters.
+comment2.params=
+comment2.target=int\ getVehicleID()
+comment3.params=
+comment3.target=java.lang.String\ getVehicleName()
+comment4.params=
+comment4.target=java.lang.String\ getVehicleWeight()
+comment5.params=
+comment5.target=java.lang.String\ getVehicleColor()
+comment6.params=
+comment6.target=java.lang.String\ getVehicleSpeed()
+comment7.params=vehicleSpeed
+comment7.target=void\ setVehicleSpeed(java.lang.String)
+comment8.params=vehicleColor
+comment8.target=void\ setVehicleColor(java.lang.String)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
